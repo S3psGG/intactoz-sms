@@ -9,7 +9,7 @@ apt install git -y
 apt install nodejs -y
 ```
 ```
-git clone https://github.com/s3ps/intactoz-sms
+git clone https://github.com/s3ps/intactoz-sms.git
 ```
 ```
 cd spam
