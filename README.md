@@ -15,10 +15,25 @@ git clone https://github.com/s3ps/intactoz-sms.git
 cd spam
 ```
 ```
+npm i cli-progress
+```
+```
+npm i request
+```
+```
+npm i readline-sync
+```
+```
+npm i colors
+```
+```
+npm i figlet
+```
+```
+npm i crypto
+```
+```
 chmod +x *
-```
-```
-bash install.sh
 ```
 
 ## Como executar
