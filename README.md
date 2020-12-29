@@ -12,7 +12,7 @@ apt install nodejs -y
 git clone https://github.com/s3ps/intactoz-sms.git
 ```
 ```
-cd spam
+cd intactoz-sms
 ```
 ```
 npm i cli-progress
